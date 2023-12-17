@@ -9,7 +9,7 @@
   <a href="mailto:moragasfarage.hjaykal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/2gqf7wf102ogmgc02jq1ckag0?si=c2a1c141dbb54e5d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](link)
+  ![Snake animation](https://github.com/euHaykal/euHaykal/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
