@@ -1,5 +1,4 @@
-### Opa, Salve!
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=22C0F7&random=false&width=435&lines=Opa%2C+Salve!+%F0%9F%91%8B;Muito+prazer%2C+eu+me+chamo+Haykal!+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 <div> 
   <a href="https://euhaykal.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
